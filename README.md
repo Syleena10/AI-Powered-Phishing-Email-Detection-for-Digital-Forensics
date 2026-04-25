@@ -19,6 +19,9 @@ Matplotlib
 
 
 ## Dataset
+Download:
+https://www.kaggle.com/datasets/subhajournal/phishingemails
+
 CSV file containing:
 Email Text
 Email Type (Safe Email / Phishing Email)
